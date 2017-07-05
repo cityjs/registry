@@ -1,0 +1,133 @@
+[
+  {
+    "name": "AmsterdamJS",
+    "location": "Amsterdam, Netherlands",
+    "website": "https://amsterdamjs.com/",
+    "email": "hi@amsterdamjs.com",
+    "logo": "./logos/amsterdamjs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/amsterdamjs",
+      "twitter": "https://twitter.com/amsterdamjs",
+      "youtube": "https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ"
+    }
+  },
+  {
+    "name": "ChernihivJS",
+    "location": "Chernihiv, Ukraine",
+    "website": "https://chernihivjs.org.ua/",
+    "email": "#",
+    "logo": "./logos/chernihivjs.png",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/chernihivjs",
+      "twitter": "https://twitter.com/chernihivjs"
+    }
+  },
+  {
+    "name": "ChernivtsiJS",
+    "location": "Chernivtsi, Ukraine",
+    "website": "https://chernivtsi.js.org/",
+    "email": "chernivtsijs@gmail.com",
+    "logo": "./logos/chernivtsijs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/chernivtsijs",
+      "twitter": "https://twitter.com/chernivtsijs",
+      "youtube": "https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw"
+    }
+  },
+  {
+    "name": "IFJS",
+    "location": "Ivano-Frankivsk, Ukraine",
+    "website": "https://www.facebook.com/FrankivskJS",
+    "email": "#",
+    "logo": "./logos/ifjs.jpg",
+    "social": {
+      "facebook": "https://www.facebook.com/FrankivskJS",
+      "twitter": "https://twitter.com/frankivskjs"
+    }
+  },
+  {
+    "name": "KharkivJS",
+    "location": "Kharkiv, Ukraine",
+    "website": "http://kharkivjs.org/",
+    "email": "myzlio@gmail.com",
+    "logo": "./logos/kharkivjs.png",
+    "social": {
+      "twitter": "https://twitter.com/kharkivjs",
+      "youtube": "https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A"
+    }
+  },
+  {
+    "name": "KhJS",
+    "location": "Kharkiv, Ukraine",
+    "website": "http://khjs.org/",
+    "email": "khjs@javascript.ninja",
+    "logo": "./logos/khjs.png"
+  },
+  {
+    "name": "KyivJS",
+    "location": "Kyiv, Ukraine",
+    "website": "http://kyivjs.org/",
+    "email": "#",
+    "logo": "./logos/kyivjs.svg",
+    "social": {
+      "twitter": "https://twitter.com/kyivjs",
+      "youtube": "https://www.youtube.com/channel/UCOeSzR4BeXpsXGW6P0Pv9sA"
+    }
+  },
+  {
+    "name": "LvivJS",
+    "location": "Lviv, Ukraine",
+    "website": "http://lvivjs.org.ua/",
+    "email": "lvivjsconference@gmail.com",
+    "logo": "./logos/lvivjs.png",
+    "social": {
+      "twitter": "https://twitter.com/lvivjs",
+      "youtube": "https://www.youtube.com/channel/UC6FuC3toXWdpNTVYdFd4quA"
+    }
+  },
+  {
+    "name": "MinskJS",
+    "location": "Minsk, Belorus",
+    "website": "http://minskjs.by/",
+    "email": "daria@eventspace.by",
+    "logo": "./logos/minskjs.png",
+    "social": {
+      "facebook": "https://www.facebook.com/MinskJS",
+      "twitter": "https://twitter.com/minskjs",
+      "youtube": "https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA"
+    }
+  },
+  {
+    "name": "OdessaJS",
+    "location": "Odesa, Ukraine",
+    "website": "http://odessajs.org/",
+    "email": "odessajsconf@gmail.com",
+    "logo": "./logos/odessajs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/odessajs",
+      "twitter": "https://twitter.com/OdessaJS",
+      "youtube": "https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg"
+    }
+  },
+  {
+    "name": "SamaraJS",
+    "location": "Samara, Russia",
+    "website": "http://samarajs.ru",
+    "email": "#",
+    "logo": "./logos/samarajs.png",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/781796485233473/"
+    }
+  },
+  {
+    "name": "TomskJS",
+    "location": "Tomsk, Russia",
+    "website": "http://tomskjs.ru/",
+    "email": "#",
+    "logo": "./logos/tomskjs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/tomskjs",
+      "twitter": "https://twitter.com/TomskJs"
+    }
+  }
+]
