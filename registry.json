@@ -12,6 +12,16 @@
     }
   },
   {
+    "name": "ChellyJS",
+    "location": "Chelyabinsk, Russia",
+    "website": "https://twitter.com/chellyjs",
+    "email": "#",
+    "logo": "./logos/chellyjs.png",
+    "social": {
+      "twitter": "https://twitter.com/chellyjs"
+    }
+  },
+  {
     "name": "ChernihivJS",
     "location": "Chernihiv, Ukraine",
     "website": "https://chernihivjs.org.ua/",
@@ -21,6 +31,14 @@
       "facebook": "https://www.facebook.com/groups/chernihivjs",
       "twitter": "https://twitter.com/chernihivjs"
     }
+  },
+  {
+    "name": "Ha.js",
+    "location": "Khabarovsk, Russia",
+    "website": "https://hajs.ru/",
+    "email": "a@iantonov.me",
+    "logo": "./logos/hajs.png",
+    "social": { }
   },
   {
     "name": "ChernivtsiJS",
@@ -64,6 +82,16 @@
     "logo": "./logos/khjs.png"
   },
   {
+    "name": "KirovohradJS",
+    "location": "Kirovohrad, Ukraine",
+    "website": "http://kirovohradjs.com/",
+    "email": "#",
+    "logo": "./logos/kirovohradjs.png",
+    "social": {
+      "twitter": "https://twitter.com/kirovohradjs"
+    }
+  },
+  {
     "name": "KyivJS",
     "location": "Kyiv, Ukraine",
     "website": "http://kyivjs.org/",
@@ -98,6 +126,17 @@
     }
   },
   {
+    "name": "MoskowJS",
+    "location": "Moskow, Russia",
+    "website": "https://www.moscowjs.ru/",
+    "email": "team@moscowjs.ru",
+    "logo": "./logos/moskowjs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/moscowjs/",
+      "twitter": "https://twitter.com/moscowjs"
+    }
+  },
+  {
     "name": "OdessaJS",
     "location": "Odesa, Ukraine",
     "website": "http://odessajs.org/",
@@ -107,6 +146,30 @@
       "facebook": "https://www.facebook.com/odessajs",
       "twitter": "https://twitter.com/OdessaJS",
       "youtube": "https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg"
+    }
+  },
+  {
+    "name": "OrelJS",
+    "location": "Orel, Russia",
+    "website": "http://oreljs.ru/",
+    "email": "oreljs@mail.ru",
+    "logo": "./logos/oreljs.svg",
+    "social": {
+      "youtube": "https://www.youtube.com/channel/UCHZ-BWV4a-2d5EyWsS87HpQ"
+    }
+  },
+  {
+    "name": "PiterJS",
+    "location": "Saint Petersburg, Russia",
+    "website": "http://piterjs.org/",
+    "email": "hello@piterjs.org",
+    "logo": "./logos/piterjs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/groups/piterjs",
+      "github": "https://github.com/piterjs",
+      "telegram": "https://t.me/piterjs",
+      "twitter": "https://twitter.com/@gopiterjs",
+      "youtube": "https://www.youtube.com/c/piterjs"
     }
   },
   {
@@ -128,6 +191,19 @@
     "social": {
       "facebook": "https://www.facebook.com/tomskjs",
       "twitter": "https://twitter.com/TomskJs"
+    }
+  },
+  {
+    "name": "UralJS",
+    "location": "Yekaterinburg, Russia",
+    "website": "https://www.meetup.com/UralJS/",
+    "email": "#",
+    "logo": "./logos/uraljs.svg",
+    "social": {
+      "facebook": "https://www.facebook.com/tomskjs",
+      "github": "https://github.com/UralJS",
+      "twitter": "https://twitter.com/uraljs",
+      "youtube": "https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw"
     }
   }
 ]
