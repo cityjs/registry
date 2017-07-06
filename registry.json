@@ -12,6 +12,18 @@
     }
   },
   {
+    "name": "BerlinJS",
+    "location": "Berlin, Germany",
+    "website": "http://berlinjs.org/",
+    "email": "info@berlinjs.org",
+    "logo": "./logos/berlinjs.svg",
+    "social": {
+      "github": "https://github.com/berlinjs",
+      "twitter": "http://twitter.com/berlinjs",
+      "youtube": "https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ"
+    }
+  },
+  {
     "name": "ChellyJS",
     "location": "Chelyabinsk, Russia",
     "website": "https://twitter.com/chellyjs",
@@ -30,6 +42,16 @@
     "social": {
       "facebook": "https://www.facebook.com/groups/chernihivjs",
       "twitter": "https://twitter.com/chernihivjs"
+    }
+  },
+  {
+    "name": "dotJS",
+    "location": "Paris, France",
+    "website": "https://www.dotjs.io/",
+    "email": "contact@dotconferences.com",
+    "logo": "./logos/dotjs.png",
+    "social": {
+      "twitter": "https://twitter.com/dotJS"
     }
   },
   {
@@ -159,6 +181,16 @@
     }
   },
   {
+    "name": "ParisJS",
+    "location": "Paris, France",
+    "website": "http://parisjs.org/",
+    "email": "#",
+    "logo": "./logos/parisjs.png",
+    "social": {
+      "twitter": "https://twitter.com/parisjs"
+    }
+  },
+  {
     "name": "PiterJS",
     "location": "Saint Petersburg, Russia",
     "website": "http://piterjs.org/",
@@ -200,10 +232,33 @@
     "email": "#",
     "logo": "./logos/uraljs.svg",
     "social": {
-      "facebook": "https://www.facebook.com/tomskjs",
       "github": "https://github.com/UralJS",
       "twitter": "https://twitter.com/uraljs",
       "youtube": "https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw"
+    }
+  },
+  {
+    "name": "ViennaJS",
+    "location": "Vienna, Austria",
+    "website": "https://www.meetup.com/viennajs/",
+    "email": "#",
+    "logo": "./logos/viennajs.png",
+    "social": {
+      "github": "https://github.com/viennajs",
+      "twitter": "https://twitter.com/viennajs"
+    }
+  },
+  {
+    "name": "WarsawJS",
+    "location": "Warsaw, Poland",
+    "website": "https://warsawjs.com/",
+    "email": "#",
+    "logo": "./logos/warsawjs.png",
+    "social": {
+      "facebook": "https://facebook.com/warsawjs",
+      "github": "https://github.com/warsawjs",
+      "twitter": "https://twitter.com/warsawjs/",
+      "youtube": "https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg"
     }
   }
 ]

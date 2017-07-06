@@ -3,9 +3,11 @@
 A registry of CityJS conferences and meetups
 
 * AmsterdamJS
+* BerlinJS
 * ChellyJS
 * ChernihivJS
 * ChernivtsiJS
+* dotJS
 * Ha.js
 * IFJS
 * KharkivJS
@@ -17,7 +19,10 @@ A registry of CityJS conferences and meetups
 * MoskowJS
 * OdessaJS
 * OrelJS
+* ParisJS
 * PiterJS
 * SamaraJS
 * TomskJS
 * UralJS
+* ViennaJS
+* WarsawJS
