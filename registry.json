@@ -55,6 +55,16 @@
     }
   },
   {
+    "name": "EmpireJS",
+    "location": "New York, US",
+    "website": "http://empirejs.org/",
+    "email": "us@empirejs.org",
+    "logo": "./logos/empirejs.png",
+    "social": {
+      "twitter": "https://twitter.com/empirejs"
+    }
+  },
+  {
     "name": "Ha.js",
     "location": "Khabarovsk, Russia",
     "website": "https://hajs.ru/",
@@ -83,6 +93,18 @@
     "social": {
       "facebook": "https://www.facebook.com/FrankivskJS",
       "twitter": "https://twitter.com/frankivskjs"
+    }
+  },
+  {
+    "name": "js.la",
+    "location": "Los Angeles, US",
+    "website": "http://js.la/",
+    "email": "hello@js.la",
+    "logo": "./logos/js.la.jpg",
+    "social": {
+      "github": "https://github.com/jsla",
+      "twitter": "https://twitter.com/jsdotla",
+      "youtube": "https://www.youtube.com/channel/UCQc3xx7JEV_gcXjq0SmlCiQ"
     }
   },
   {

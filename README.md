@@ -8,8 +8,10 @@ A registry of CityJS conferences and meetups
 * ChernihivJS
 * ChernivtsiJS
 * dotJS
+* EmpireJS
 * Ha.js
 * IFJS
+* js.la
 * KharkivJS
 * KhJS
 * KirovohradJS
