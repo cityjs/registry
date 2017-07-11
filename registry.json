@@ -123,7 +123,11 @@
     "location": "Kharkiv, Ukraine",
     "website": "http://khjs.org/",
     "email": "khjs@javascript.ninja",
-    "logo": "./logos/khjs.png"
+    "logo": "./logos/khjs.png",
+    "social": {
+      "twitter": "https://twitter.com/kharkivjs",
+      "youtube": "https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A"
+    }
   },
   {
     "name": "KirovohradJS",
@@ -132,7 +136,8 @@
     "email": "#",
     "logo": "./logos/kirovohradjs.png",
     "social": {
-      "twitter": "https://twitter.com/kirovohradjs"
+      "twitter": "https://twitter.com/kirovohradjs",
+      "youtube": "https://www.youtube.com/channel/UCfAXxwo99zucPyGE6T6k1DQ"
     }
   },
   {
@@ -170,14 +175,15 @@
     }
   },
   {
-    "name": "MoskowJS",
-    "location": "Moskow, Russia",
+    "name": "MoscowJS",
+    "location": "Moscow, Russia",
     "website": "https://www.moscowjs.ru/",
     "email": "team@moscowjs.ru",
-    "logo": "./logos/moskowjs.svg",
+    "logo": "./logos/moscowjs.svg",
     "social": {
       "facebook": "https://www.facebook.com/groups/moscowjs/",
-      "twitter": "https://twitter.com/moscowjs"
+      "twitter": "https://twitter.com/moscowjs",
+      "youtube": "https://www.youtube.com/user/moscowjs"
     }
   },
   {
@@ -199,7 +205,8 @@
     "email": "oreljs@mail.ru",
     "logo": "./logos/oreljs.svg",
     "social": {
-      "youtube": "https://www.youtube.com/channel/UCHZ-BWV4a-2d5EyWsS87HpQ"
+      "youtube": "https://www.youtube.com/channel/UCHZ-BWV4a-2d5EyWsS87HpQ",
+      "telegram": "https://t.me/oreljs"
     }
   },
   {
