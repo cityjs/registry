@@ -108,6 +108,17 @@
     }
   },
   {
+    "name": "JSNN",
+    "location": "Nizhny Novgorod, Russia",
+    "website": "https://github.com/nnfrontend",
+    "email": "me@r3nya.ru",
+    "logo": "./logos/jsnn.jpg",
+    "social": {
+      "github": "https://github.com/nnfrontend",
+      "telegram": "https://telegram.me/js_nn"
+    }
+  },
+  {
     "name": "KharkivJS",
     "location": "Kharkiv, Ukraine",
     "website": "http://kharkivjs.org/",

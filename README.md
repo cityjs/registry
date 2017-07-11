@@ -12,6 +12,7 @@ A registry of CityJS conferences and meetups
 * Ha.js
 * IFJS
 * js.la
+* JSNN
 * KharkivJS
 * KhJS
 * KirovohradJS
