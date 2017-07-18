@@ -123,7 +123,8 @@
     "location": "Kharkiv, Ukraine",
     "website": "http://khjs.org/",
     "email": "khjs@javascript.ninja",
-    "logo": "./logos/khjs.png"
+    "logo": "./logos/khjs.png",
+    "social": {}
   },
   {
     "name": "KirovohradJS",
